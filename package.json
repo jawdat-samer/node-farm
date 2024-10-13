@@ -7,7 +7,7 @@
     "start": "nodemon index.js"
   },
   "author": "Jawdat Samer",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^3.1.4"
   },
